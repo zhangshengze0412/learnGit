@@ -1,4 +1,6 @@
-package top.zhangshengze.learn;
+package top.zhangshengze.learn.user;
+
+import top.zhangshengze.learn.user.User;
 
 /**
  * @className:
